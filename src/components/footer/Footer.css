@@ -1,0 +1,6 @@
+.flexColumn{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fbfbfb;
+    padding: 100px 0px 100px 0px;
+}
